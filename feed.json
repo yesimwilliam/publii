@@ -1,0 +1,76 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Blog",
+    "description": "",
+    "home_page_url": "https://yesimwilliam.github.io/publii",
+    "feed_url": "https://yesimwilliam.github.io/publii/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "William"
+    },
+    "items": [
+        {
+            "id": "https://yesimwilliam.github.io/publii/hurricanes/index.html",
+            "url": "https://yesimwilliam.github.io/publii/hurricanes/index.html",
+            "title": "Hurricanes",
+            "summary": "If you want to learn the inner working of hurricanes just make&hellip;",
+            "content_html": "\n  <p>\n    If you want to learn the inner working of hurricanes just make a cup of coffee!! Yep you read that right. When you make that fresh cup stir it vigorously and watch the magic\n  </p>\n\n  <p>\n    &nbsp;\n  </p>\n\n    <figure class=\"post__image post__image--full\">\n      <img loading=\"lazy\" src=\"https://yesimwilliam.github.io/publii/media/posts/6/IMG_2917.jpg\" height=\"2268\" width=\"4032\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://yesimwilliam.github.io/publii/media/posts/6/responsive/IMG_2917-xs.jpg 300w ,https://yesimwilliam.github.io/publii/media/posts/6/responsive/IMG_2917-sm.jpg 480w ,https://yesimwilliam.github.io/publii/media/posts/6/responsive/IMG_2917-md.jpg 768w ,https://yesimwilliam.github.io/publii/media/posts/6/responsive/IMG_2917-lg.jpg 1024w\">\n      \n    </figure>\n\n  <p>\n    You see the atmosphere above you head may be air but it is fluid and acts much like a fluid. Just like coffee, or any other liquid it is a representative microcosm of other natural phenomena. You can pick out some obvious feature is the scup of joe that you would see in a real hurricane.\n  </p>\n\n  <p>\n    Feeder bands, the CDO (central dense overcast) that is in the middle where the eye would be.\n  </p>",
+            "image": "https://yesimwilliam.github.io/publii/media/posts/6/hurricane-cover.jpg",
+            "author": {
+                "name": "William"
+            },
+            "tags": [
+                   "weather"
+            ],
+            "date_published": "2022-12-10T05:34:55-08:00",
+            "date_modified": "2022-12-10T06:31:45-08:00"
+        },
+        {
+            "id": "https://yesimwilliam.github.io/publii/new-post/index.html",
+            "url": "https://yesimwilliam.github.io/publii/new-post/index.html",
+            "title": "Docks",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing&nbsp; , sed do eiusmod tempor&hellip;",
+            "content_html": "\n    <figure class=\"post__image post__image--full\">\n      <img loading=\"lazy\" src=\"https://yesimwilliam.github.io/publii/media/posts/5/tj-holowaychuk-1EYMue_AwDw-unsplash.jpg\" height=\"4912\" width=\"7360\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://yesimwilliam.github.io/publii/media/posts/5/responsive/tj-holowaychuk-1EYMue_AwDw-unsplash-xs.jpg 300w ,https://yesimwilliam.github.io/publii/media/posts/5/responsive/tj-holowaychuk-1EYMue_AwDw-unsplash-sm.jpg 480w ,https://yesimwilliam.github.io/publii/media/posts/5/responsive/tj-holowaychuk-1EYMue_AwDw-unsplash-md.jpg 768w ,https://yesimwilliam.github.io/publii/media/posts/5/responsive/tj-holowaychuk-1EYMue_AwDw-unsplash-lg.jpg 1024w\">\n      \n    </figure>\n\n    <h2 id=\"lorem-ipsum-dolor-sit-amet-consectetur-adipiscingnbsp\">\n      Lorem ipsum dolor sit amet, consectetur adipiscing&nbsp;\n    </h2>\n\n  <p>\n    , sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi tristique. Risus pretium quam vulputate dignissim suspendisse. Morbi blandit cursus risus at ultrices. Amet commodo nulla facilisi nullam vehicula ipsum a arcu. Sed elementum tempus egestas sed sed risus pretium quam. Aliquam vestibulum morbi blandit cursus risus at ultrices mi tempus. Eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Cursus eget nunc scelerisque viverra mauris. Blandit aliquam etiam erat velit scelerisque in dictum. Leo urna molestie at elementum eu facilisis. Malesuada proin libero nunc consequat interdum. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui faucibus. Nisl vel pretium lectus quam id. Dictum varius duis at consectetur lorem donec. Dictum non consectetur a erat nam at.\n<br>\n<br><strong>Amet mauris commodo quis imperdiet.</strong> Lorem ipsum dolor sit amet consectetur adipiscing. Id velit ut tortor pretium viverra suspendisse potenti nullam ac. Velit dignissim sodales ut eu sem integer vitae justo eget. Tempor nec feugiat nisl pretium fusce id velit ut tortor. Suspendisse in est ante in nibh mauris cursus. Sed lectus vestibulum mattis ullamcorper. Amet risus nullam eget felis eget. Proin sagittis nisl rhoncus mattis rhoncus. Duis at consectetur lorem donec massa sapien faucibus et molestie. Vitae justo eget magna fermentum. Ut enim blandit volutpat maecenas volutpat blandit aliquam. A pellentesque sit amet porttitor eget dolor morbi non arcu. Ut tortor pretium viverra suspendisse potenti nullam. Imperdiet sed euismod nisi porta lorem mollis aliquam. Lacus viverra vitae congue eu consequat. Facilisis magna etiam tempor orci eu.\n<br>\n<br>Ornare massa eget egestas purus viverra accumsan in nisl nisi. Adipiscing elit ut aliquam purus sit amet. In cursus turpis massa tincidunt dui ut ornare lectus sit. Nibh tellus molestie nunc non blandit. Egestas diam in arcu cursus euismod. Et odio pellentesque diam volutpat. Ac felis donec et odio pellentesque diam volutpat commodo sed. Nec feugiat in fermentum posuere urna nec tincidunt praesent. Dictumst quisque sagittis purus sit amet volutpat consequat. Turpis egestas maecenas pharetra convallis posuere. Sit amet aliquam id diam maecenas ultricies. Ipsum consequat nisl vel pretium lectus. Vitae tempus quam pellentesque nec nam aliquam sem. Sit amet cursus sit amet dictum sit amet justo donec. Sed viverra ipsum nunc aliquet bibendum enim facilisis. Tincidunt lobortis feugiat vivamus at augue eget arcu dictum. Posuere morbi leo urna molestie at elementum eu. Enim ut sem viverra aliquet eget sit amet. Nunc aliquet bibendum enim facilisis gravida neque.\n  </p>",
+            "image": "https://yesimwilliam.github.io/publii/media/posts/5/dock-cover.jpg",
+            "author": {
+                "name": "William"
+            },
+            "tags": [
+                   "trees"
+            ],
+            "date_published": "2022-12-10T04:45:35-08:00",
+            "date_modified": "2022-12-10T06:28:33-08:00"
+        },
+        {
+            "id": "https://yesimwilliam.github.io/publii/gallery/index.html",
+            "url": "https://yesimwilliam.github.io/publii/gallery/index.html",
+            "title": "Gallery",
+            "content_html": "\n  <div  class=\"gallery-wrapper gallery-wrapper--wide\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://yesimwilliam.github.io/publii/media/posts/3/gallery/casey-horner-4rDCa5hBlCs-unsplash.jpg\" data-size=\"3654x5473\">\n        <img loading=\"lazy\" src=\"https://yesimwilliam.github.io/publii/media/posts/3/gallery/casey-horner-4rDCa5hBlCs-unsplash-thumbnail.jpg\" height=\"1078\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://yesimwilliam.github.io/publii/media/posts/3/gallery/jason-leem-50bzI1F6urA-unsplash.jpg\" data-size=\"5736x3350\">\n        <img loading=\"lazy\" src=\"https://yesimwilliam.github.io/publii/media/posts/3/gallery/jason-leem-50bzI1F6urA-unsplash-thumbnail.jpg\" height=\"421\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://yesimwilliam.github.io/publii/media/posts/3/gallery/luca-bravo-ESkw2ayO2As-unsplash.jpg\" data-size=\"4561x3148\">\n        <img loading=\"lazy\" src=\"https://yesimwilliam.github.io/publii/media/posts/3/gallery/luca-bravo-ESkw2ayO2As-unsplash-thumbnail.jpg\" height=\"497\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://yesimwilliam.github.io/publii/media/posts/3/gallery/arnaud-mesureur-7EqQ1s3wIAI-unsplash.jpg\" data-size=\"5472x3648\">\n        <img loading=\"lazy\" src=\"https://yesimwilliam.github.io/publii/media/posts/3/gallery/arnaud-mesureur-7EqQ1s3wIAI-unsplash-thumbnail.jpg\" height=\"480\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://yesimwilliam.github.io/publii/media/posts/3/gallery/diyar-shahbaz-Xxz97xNbdHs-unsplash.jpg\" data-size=\"3243x1824\">\n        <img loading=\"lazy\" src=\"https://yesimwilliam.github.io/publii/media/posts/3/gallery/diyar-shahbaz-Xxz97xNbdHs-unsplash-thumbnail.jpg\" height=\"405\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>",
+            "image": "https://yesimwilliam.github.io/publii/media/posts/3/tj-holowaychuk-1EYMue_AwDw-unsplash.jpg",
+            "author": {
+                "name": "William"
+            },
+            "tags": [
+                   "trees"
+            ],
+            "date_published": "2022-12-10T03:59:26-08:00",
+            "date_modified": "2022-12-10T06:02:42-08:00"
+        },
+        {
+            "id": "https://yesimwilliam.github.io/publii/trees/index.html",
+            "url": "https://yesimwilliam.github.io/publii/trees/index.html",
+            "title": "Trees",
+            "summary": "Trees are awesome!!",
+            "content_html": "<p>Trees are awesome!!</p>",
+            "image": "https://yesimwilliam.github.io/publii/media/posts/2/abik-peravan-atbQFkGekAw-unsplash.jpg",
+            "author": {
+                "name": "William"
+            },
+            "tags": [
+                   "trees"
+            ],
+            "date_published": "2022-12-10T03:58:17-08:00",
+            "date_modified": "2022-12-10T05:00:44-08:00"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://yesimwilliam.github.io/publii/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://yesimwilliam.github.io/publii/</loc>
+</url>
+<url>
+<loc>https://yesimwilliam.github.io/publii/about-me/</loc>
+<lastmod>2022-12-10T03:57:45-08:00</lastmod>
+</url>
+<url>
+<loc>https://yesimwilliam.github.io/publii/contact-me/</loc>
+<lastmod>2022-12-10T04:26:55-08:00</lastmod>
+</url>
+<url>
+<loc>https://yesimwilliam.github.io/publii/gallery/</loc>
+<lastmod>2022-12-10T06:02:42-08:00</lastmod>
+<image:image>
+<image:loc>https://yesimwilliam.github.io/publii/media\posts\3/tj-holowaychuk-1EYMue_AwDw-unsplash.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://yesimwilliam.github.io/publii/hurricanes/</loc>
+<lastmod>2022-12-10T06:31:45-08:00</lastmod>
+<image:image>
+<image:loc>https://yesimwilliam.github.io/publii/media\posts\6/hurricane-cover.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://yesimwilliam.github.io/publii/new-post/</loc>
+<lastmod>2022-12-10T06:28:33-08:00</lastmod>
+<image:image>
+<image:loc>https://yesimwilliam.github.io/publii/media\posts\5/dock-cover.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://yesimwilliam.github.io/publii/trees/</loc>
+<lastmod>2022-12-10T05:00:44-08:00</lastmod>
+<image:image>
+<image:loc>https://yesimwilliam.github.io/publii/media\posts\2/abik-peravan-atbQFkGekAw-unsplash.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
