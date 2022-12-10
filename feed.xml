@@ -3,7 +3,7 @@
     <title>Blog</title>
     <link href="https://yesimwilliam.github.io/publii/feed.xml" rel="self" />
     <link href="https://yesimwilliam.github.io/publii" />
-    <updated>2022-12-10T06:31:45-08:00</updated>
+    <updated>2022-12-10T06:57:21-08:00</updated>
     <author>
         <name>William</name>
     </author>
@@ -19,7 +19,7 @@
         <media:content url="https://yesimwilliam.github.io/publii/media/posts/6/hurricane-cover.jpg" medium="image" />
             <category term="weather"/>
 
-        <updated>2022-12-10T06:31:45-08:00</updated>
+        <updated>2022-12-10T06:55:43-08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://yesimwilliam.github.io/publii/media/posts/6/hurricane-cover.jpg" alt="" />
@@ -63,11 +63,11 @@
         <media:content url="https://yesimwilliam.github.io/publii/media/posts/5/dock-cover.jpg" medium="image" />
             <category term="trees"/>
 
-        <updated>2022-12-10T06:28:33-08:00</updated>
+        <updated>2022-12-10T06:57:21-08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://yesimwilliam.github.io/publii/media/posts/5/dock-cover.jpg" alt="" />
-                    Lorem ipsum dolor sit amet, consectetur adipiscing&nbsp; , sed do eiusmod tempor&hellip;
+                    Image downloaded from https://unsplash.com/ Lorem ipsum dolor sit amet, consectetur adipiscing&nbsp; ,&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -76,7 +76,7 @@
                 
     <figure class="post__image post__image--full">
       <img loading="lazy" src="https://yesimwilliam.github.io/publii/media/posts/5/tj-holowaychuk-1EYMue_AwDw-unsplash.jpg" height="4912" width="7360" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://yesimwilliam.github.io/publii/media/posts/5/responsive/tj-holowaychuk-1EYMue_AwDw-unsplash-xs.jpg 300w ,https://yesimwilliam.github.io/publii/media/posts/5/responsive/tj-holowaychuk-1EYMue_AwDw-unsplash-sm.jpg 480w ,https://yesimwilliam.github.io/publii/media/posts/5/responsive/tj-holowaychuk-1EYMue_AwDw-unsplash-md.jpg 768w ,https://yesimwilliam.github.io/publii/media/posts/5/responsive/tj-holowaychuk-1EYMue_AwDw-unsplash-lg.jpg 1024w">
-      
+      <figcaption>Image downloaded from https://unsplash.com/</figcaption>
     </figure>
 
     <h2 id="lorem-ipsum-dolor-sit-amet-consectetur-adipiscingnbsp">
@@ -103,8 +103,13 @@
         <media:content url="https://yesimwilliam.github.io/publii/media/posts/3/tj-holowaychuk-1EYMue_AwDw-unsplash.jpg" medium="image" />
             <category term="trees"/>
 
-        <updated>2022-12-10T06:02:42-08:00</updated>
-            <summary></summary>
+        <updated>2022-12-10T06:56:28-08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://yesimwilliam.github.io/publii/media/posts/3/tj-holowaychuk-1EYMue_AwDw-unsplash.jpg" alt="" />
+                    Image downloaded from https://unsplash.com/ Image downloaded from https://unsplash.com/ Image downloaded from https://unsplash.com/&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://yesimwilliam.github.io/publii/media/posts/3/tj-holowaychuk-1EYMue_AwDw-unsplash.jpg" class="type:primaryImage" alt="" /></p>
@@ -115,27 +120,27 @@
       <a href="https://yesimwilliam.github.io/publii/media/posts/3/gallery/casey-horner-4rDCa5hBlCs-unsplash.jpg" data-size="3654x5473">
         <img loading="lazy" src="https://yesimwilliam.github.io/publii/media/posts/3/gallery/casey-horner-4rDCa5hBlCs-unsplash-thumbnail.jpg" height="1078" width="720" alt="" >
       </a>
-      
+      <figcaption>Image downloaded from https://unsplash.com/</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://yesimwilliam.github.io/publii/media/posts/3/gallery/jason-leem-50bzI1F6urA-unsplash.jpg" data-size="5736x3350">
         <img loading="lazy" src="https://yesimwilliam.github.io/publii/media/posts/3/gallery/jason-leem-50bzI1F6urA-unsplash-thumbnail.jpg" height="421" width="720" alt="" >
       </a>
-      
+      <figcaption>Image downloaded from https://unsplash.com/</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://yesimwilliam.github.io/publii/media/posts/3/gallery/luca-bravo-ESkw2ayO2As-unsplash.jpg" data-size="4561x3148">
         <img loading="lazy" src="https://yesimwilliam.github.io/publii/media/posts/3/gallery/luca-bravo-ESkw2ayO2As-unsplash-thumbnail.jpg" height="497" width="720" alt="" >
       </a>
-      
+      <figcaption>Image downloaded from https://unsplash.com/</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://yesimwilliam.github.io/publii/media/posts/3/gallery/arnaud-mesureur-7EqQ1s3wIAI-unsplash.jpg" data-size="5472x3648">
         <img loading="lazy" src="https://yesimwilliam.github.io/publii/media/posts/3/gallery/arnaud-mesureur-7EqQ1s3wIAI-unsplash-thumbnail.jpg" height="480" width="720" alt="" >
       </a>
-      
+      <figcaption>Image downloaded from https://unsplash.com/</figcaption>
     </figure><figure class="gallery__item">
       <a href="https://yesimwilliam.github.io/publii/media/posts/3/gallery/diyar-shahbaz-Xxz97xNbdHs-unsplash.jpg" data-size="3243x1824">
         <img loading="lazy" src="https://yesimwilliam.github.io/publii/media/posts/3/gallery/diyar-shahbaz-Xxz97xNbdHs-unsplash-thumbnail.jpg" height="405" width="720" alt="" >
       </a>
-      
+      <figcaption>Image downloaded from https://unsplash.com/</figcaption>
     </figure>
     </div>
   </div>
@@ -152,7 +157,7 @@
         <media:content url="https://yesimwilliam.github.io/publii/media/posts/2/abik-peravan-atbQFkGekAw-unsplash.jpg" medium="image" />
             <category term="trees"/>
 
-        <updated>2022-12-10T05:00:44-08:00</updated>
+        <updated>2022-12-10T06:56:39-08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://yesimwilliam.github.io/publii/media/posts/2/abik-peravan-atbQFkGekAw-unsplash.jpg" alt="" />
