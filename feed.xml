@@ -3,7 +3,7 @@
     <title>Blog</title>
     <link href="https://yesimwilliam.github.io/publii/feed.xml" rel="self" />
     <link href="https://yesimwilliam.github.io/publii" />
-    <updated>2022-12-10T15:49:40-08:00</updated>
+    <updated>2022-12-11T17:54:00-08:00</updated>
     <author>
         <name>William</name>
     </author>
@@ -19,7 +19,7 @@
         <media:content url="https://yesimwilliam.github.io/publii/media/posts/6/hurricane-cover.jpg" medium="image" />
             <category term="weather"/>
 
-        <updated>2022-12-10T06:55:43-08:00</updated>
+        <updated>2022-12-11T17:54:00-08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://yesimwilliam.github.io/publii/media/posts/6/hurricane-cover.jpg" alt="" />
@@ -34,12 +34,8 @@
     If you want to learn the inner working of hurricanes just make a cup of coffee!! Yep you read that right. When you make that fresh cup stir it vigorously and watch the magic
   </p>
 
-  <p>
-    &nbsp;
-  </p>
-
     <figure class="post__image post__image--full">
-      <img loading="lazy" src="https://yesimwilliam.github.io/publii/media/posts/6/IMG_2917.jpg" height="2268" width="4032" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://yesimwilliam.github.io/publii/media/posts/6/responsive/IMG_2917-xs.jpg 300w ,https://yesimwilliam.github.io/publii/media/posts/6/responsive/IMG_2917-sm.jpg 480w ,https://yesimwilliam.github.io/publii/media/posts/6/responsive/IMG_2917-md.jpg 768w ,https://yesimwilliam.github.io/publii/media/posts/6/responsive/IMG_2917-lg.jpg 1024w">
+      <img loading="lazy" src="https://yesimwilliam.github.io/publii/media/posts/6/IMG_2917-2.jpg" height="2268" width="4032" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://yesimwilliam.github.io/publii/media/posts/6/responsive/IMG_2917-2-xs.jpg 300w ,https://yesimwilliam.github.io/publii/media/posts/6/responsive/IMG_2917-2-sm.jpg 480w ,https://yesimwilliam.github.io/publii/media/posts/6/responsive/IMG_2917-2-md.jpg 768w ,https://yesimwilliam.github.io/publii/media/posts/6/responsive/IMG_2917-2-lg.jpg 1024w">
       
     </figure>
 
