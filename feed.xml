@@ -14,8 +14,8 @@
         <author>
             <name>William</name>
         </author>
-        <link href="https://yesim.cool/hurricanes/index.html"/>
-        <id>https://yesim.cool/hurricanes/index.html</id>
+        <link href="https://yesim.cool/hurricanes/"/>
+        <id>https://yesim.cool/hurricanes/</id>
         <media:content url="https://yesim.cool/media/posts/6/hurricane-cover.jpg" medium="image" />
             <category term="weather"/>
 
@@ -54,8 +54,8 @@
         <author>
             <name>William</name>
         </author>
-        <link href="https://yesim.cool/new-post/index.html"/>
-        <id>https://yesim.cool/new-post/index.html</id>
+        <link href="https://yesim.cool/new-post/"/>
+        <id>https://yesim.cool/new-post/</id>
         <media:content url="https://yesim.cool/media/posts/5/tj-holowaychuk-1EYMue_AwDw-unsplash-2.jpg" medium="image" />
             <category term="trees"/>
 
@@ -89,8 +89,8 @@
         <author>
             <name>William</name>
         </author>
-        <link href="https://yesim.cool/gallery/index.html"/>
-        <id>https://yesim.cool/gallery/index.html</id>
+        <link href="https://yesim.cool/gallery/"/>
+        <id>https://yesim.cool/gallery/</id>
         <media:content url="https://yesim.cool/media/posts/3/joyce-g-c9peBmC_yzQ-unsplash.jpg" medium="image" />
             <category term="trees"/>
 
