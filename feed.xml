@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Blog</title>
-    <link href="https://blog.yesim.cool/feed.xml" rel="self" />
-    <link href="https://blog.yesim.cool" />
+    <link href="https://yesim.cool/feed.xml" rel="self" />
+    <link href="https://yesim.cool" />
     <updated>2022-12-11T17:54:00-08:00</updated>
     <author>
         <name>William</name>
     </author>
-    <id>https://blog.yesim.cool</id>
+    <id>https://yesim.cool</id>
 
     <entry>
         <title>Hurricanes</title>
         <author>
             <name>William</name>
         </author>
-        <link href="https://blog.yesim.cool/hurricanes/index.html"/>
-        <id>https://blog.yesim.cool/hurricanes/index.html</id>
-        <media:content url="https://blog.yesim.cool/media/posts/6/hurricane-cover.jpg" medium="image" />
+        <link href="https://yesim.cool/hurricanes/index.html"/>
+        <id>https://yesim.cool/hurricanes/index.html</id>
+        <media:content url="https://yesim.cool/media/posts/6/hurricane-cover.jpg" medium="image" />
             <category term="weather"/>
 
         <updated>2022-12-11T17:54:00-08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://blog.yesim.cool/media/posts/6/hurricane-cover.jpg" alt="" />
+                        <img src="https://yesim.cool/media/posts/6/hurricane-cover.jpg" alt="" />
                     If you want to learn the inner working of hurricanes just make&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://blog.yesim.cool/media/posts/6/hurricane-cover.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://yesim.cool/media/posts/6/hurricane-cover.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     If you want to learn the inner working of hurricanes just make a cup of coffee!! Yep you read that right. When you make that fresh cup stir it vigorously and watch the magic
   </p>
 
     <figure class="post__image post__image--full">
-      <img loading="lazy" src="https://blog.yesim.cool/media/posts/6/IMG_2917-2.jpg" height="2268" width="4032" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://blog.yesim.cool/media/posts/6/responsive/IMG_2917-2-xs.jpg 300w ,https://blog.yesim.cool/media/posts/6/responsive/IMG_2917-2-sm.jpg 480w ,https://blog.yesim.cool/media/posts/6/responsive/IMG_2917-2-md.jpg 768w ,https://blog.yesim.cool/media/posts/6/responsive/IMG_2917-2-lg.jpg 1024w">
+      <img loading="lazy" src="https://yesim.cool/media/posts/6/IMG_2917-2.jpg" height="2268" width="4032" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://yesim.cool/media/posts/6/responsive/IMG_2917-2-xs.jpg 300w ,https://yesim.cool/media/posts/6/responsive/IMG_2917-2-sm.jpg 480w ,https://yesim.cool/media/posts/6/responsive/IMG_2917-2-md.jpg 768w ,https://yesim.cool/media/posts/6/responsive/IMG_2917-2-lg.jpg 1024w">
       
     </figure>
 
@@ -54,21 +54,21 @@
         <author>
             <name>William</name>
         </author>
-        <link href="https://blog.yesim.cool/new-post/index.html"/>
-        <id>https://blog.yesim.cool/new-post/index.html</id>
-        <media:content url="https://blog.yesim.cool/media/posts/5/tj-holowaychuk-1EYMue_AwDw-unsplash-2.jpg" medium="image" />
+        <link href="https://yesim.cool/new-post/index.html"/>
+        <id>https://yesim.cool/new-post/index.html</id>
+        <media:content url="https://yesim.cool/media/posts/5/tj-holowaychuk-1EYMue_AwDw-unsplash-2.jpg" medium="image" />
             <category term="trees"/>
 
         <updated>2022-12-10T15:46:54-08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://blog.yesim.cool/media/posts/5/tj-holowaychuk-1EYMue_AwDw-unsplash-2.jpg" alt="" />
+                        <img src="https://yesim.cool/media/posts/5/tj-holowaychuk-1EYMue_AwDw-unsplash-2.jpg" alt="" />
                     Lorem ipsum dolor sit amet, consectetur adipiscing&nbsp; , sed do eiusmod tempor&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://blog.yesim.cool/media/posts/5/tj-holowaychuk-1EYMue_AwDw-unsplash-2.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://yesim.cool/media/posts/5/tj-holowaychuk-1EYMue_AwDw-unsplash-2.jpg" class="type:primaryImage" alt="" /></p>
                 
     <h2 id="lorem-ipsum-dolor-sit-amet-consectetur-adipiscingnbsp">
       Lorem ipsum dolor sit amet, consectetur adipiscing&nbsp;
@@ -89,47 +89,47 @@
         <author>
             <name>William</name>
         </author>
-        <link href="https://blog.yesim.cool/gallery/index.html"/>
-        <id>https://blog.yesim.cool/gallery/index.html</id>
-        <media:content url="https://blog.yesim.cool/media/posts/3/joyce-g-c9peBmC_yzQ-unsplash.jpg" medium="image" />
+        <link href="https://yesim.cool/gallery/index.html"/>
+        <id>https://yesim.cool/gallery/index.html</id>
+        <media:content url="https://yesim.cool/media/posts/3/joyce-g-c9peBmC_yzQ-unsplash.jpg" medium="image" />
             <category term="trees"/>
 
         <updated>2022-12-10T15:49:40-08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://blog.yesim.cool/media/posts/3/joyce-g-c9peBmC_yzQ-unsplash.jpg" alt="" />
+                        <img src="https://yesim.cool/media/posts/3/joyce-g-c9peBmC_yzQ-unsplash.jpg" alt="" />
                     Image downloaded from https://unsplash.com/ Image downloaded from https://unsplash.com/ Image downloaded from https://unsplash.com/&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://blog.yesim.cool/media/posts/3/joyce-g-c9peBmC_yzQ-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://yesim.cool/media/posts/3/joyce-g-c9peBmC_yzQ-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 
   <div  class="gallery-wrapper gallery-wrapper--wide">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://blog.yesim.cool/media/posts/3/gallery/casey-horner-4rDCa5hBlCs-unsplash.jpg" data-size="3654x5473">
-        <img loading="lazy" src="https://blog.yesim.cool/media/posts/3/gallery/casey-horner-4rDCa5hBlCs-unsplash-thumbnail.jpg" height="1078" width="720" alt="" >
+      <a href="https://yesim.cool/media/posts/3/gallery/casey-horner-4rDCa5hBlCs-unsplash.jpg" data-size="3654x5473">
+        <img loading="lazy" src="https://yesim.cool/media/posts/3/gallery/casey-horner-4rDCa5hBlCs-unsplash-thumbnail.jpg" height="1078" width="720" alt="" >
       </a>
       <figcaption>Image downloaded from https://unsplash.com/</figcaption>
     </figure><figure class="gallery__item">
-      <a href="https://blog.yesim.cool/media/posts/3/gallery/jason-leem-50bzI1F6urA-unsplash.jpg" data-size="5736x3350">
-        <img loading="lazy" src="https://blog.yesim.cool/media/posts/3/gallery/jason-leem-50bzI1F6urA-unsplash-thumbnail.jpg" height="421" width="720" alt="" >
+      <a href="https://yesim.cool/media/posts/3/gallery/jason-leem-50bzI1F6urA-unsplash.jpg" data-size="5736x3350">
+        <img loading="lazy" src="https://yesim.cool/media/posts/3/gallery/jason-leem-50bzI1F6urA-unsplash-thumbnail.jpg" height="421" width="720" alt="" >
       </a>
       <figcaption>Image downloaded from https://unsplash.com/</figcaption>
     </figure><figure class="gallery__item">
-      <a href="https://blog.yesim.cool/media/posts/3/gallery/luca-bravo-ESkw2ayO2As-unsplash.jpg" data-size="4561x3148">
-        <img loading="lazy" src="https://blog.yesim.cool/media/posts/3/gallery/luca-bravo-ESkw2ayO2As-unsplash-thumbnail.jpg" height="497" width="720" alt="" >
+      <a href="https://yesim.cool/media/posts/3/gallery/luca-bravo-ESkw2ayO2As-unsplash.jpg" data-size="4561x3148">
+        <img loading="lazy" src="https://yesim.cool/media/posts/3/gallery/luca-bravo-ESkw2ayO2As-unsplash-thumbnail.jpg" height="497" width="720" alt="" >
       </a>
       <figcaption>Image downloaded from https://unsplash.com/</figcaption>
     </figure><figure class="gallery__item">
-      <a href="https://blog.yesim.cool/media/posts/3/gallery/arnaud-mesureur-7EqQ1s3wIAI-unsplash.jpg" data-size="5472x3648">
-        <img loading="lazy" src="https://blog.yesim.cool/media/posts/3/gallery/arnaud-mesureur-7EqQ1s3wIAI-unsplash-thumbnail.jpg" height="480" width="720" alt="" >
+      <a href="https://yesim.cool/media/posts/3/gallery/arnaud-mesureur-7EqQ1s3wIAI-unsplash.jpg" data-size="5472x3648">
+        <img loading="lazy" src="https://yesim.cool/media/posts/3/gallery/arnaud-mesureur-7EqQ1s3wIAI-unsplash-thumbnail.jpg" height="480" width="720" alt="" >
       </a>
       <figcaption>Image downloaded from https://unsplash.com/</figcaption>
     </figure><figure class="gallery__item">
-      <a href="https://blog.yesim.cool/media/posts/3/gallery/diyar-shahbaz-Xxz97xNbdHs-unsplash.jpg" data-size="3243x1824">
-        <img loading="lazy" src="https://blog.yesim.cool/media/posts/3/gallery/diyar-shahbaz-Xxz97xNbdHs-unsplash-thumbnail.jpg" height="405" width="720" alt="" >
+      <a href="https://yesim.cool/media/posts/3/gallery/diyar-shahbaz-Xxz97xNbdHs-unsplash.jpg" data-size="3243x1824">
+        <img loading="lazy" src="https://yesim.cool/media/posts/3/gallery/diyar-shahbaz-Xxz97xNbdHs-unsplash-thumbnail.jpg" height="405" width="720" alt="" >
       </a>
       <figcaption>Image downloaded from https://unsplash.com/</figcaption>
     </figure>
